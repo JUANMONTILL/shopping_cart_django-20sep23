@@ -9,9 +9,9 @@
       {% block title %}{% endblock title %} | VIT TIME Shop</title>
 </head>
 <body>
-    <nav class="py-6 px-6 flex justify-between items-center background-image-2">
+    <nav class="py-6 px-6 flex justify-between items-center bg-slate-700">
       <a href="/" class="text-xl font-semibold flex items-center">
-        <img class="w-full" src="{% static 'images/VIT-TIME-logo-transparente.png' %}">
+        <span class="ml-5 color text-white text-xl font-semibold">VIT TIME</span>
         <span class="ml-5 color text-white text-xl font-semibold">SHOP</span>
       </a>
 
@@ -28,12 +28,12 @@
         {% endif %}
       </div>
     </nav>
-    <div class="px-10 py-10 background-image-3">
+    <div class="px-10 py-10 bg-slate-800">
       {% block content %}
       {% endblock content %}
     </div>
     
-    <footer class="py-6 px-6 flex justify-between background-image-2">
+    <footer class="py-6 px-6 flex justify-between bg-slate-900">
       <div class="w-2/3 pr-10">
         <h3 class="mb-5 font-semibold text-white">About</h3>
 
