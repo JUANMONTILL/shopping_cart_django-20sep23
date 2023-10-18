@@ -1,64 +1,32 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+# VIT TIME SHOP
 
-# Project Name
+> Welcome to the official VIT TIME store.
 
-> One paragraph statement about the project.
+![screenshot](./Screenshot_2023-10-18_17-07-21.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+Register in the store to buy the most used garments of the moment, you can also publish your own articles with original designs related to the brand. You will have ways to communicate with the seller and arrange payment and delivery.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, Python, CSS
+- Django
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Store](https://mastersoftk.tech/)
 
 ## Authors
 
 👤 **Juan Montilla**
 
 - GitHub: [@JUANMONTILL](https://github.com/JUANMONTILL)
-- Instagram: [@juanfranc_31](https://instagram.com/juanfranc_31)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Instagram: [@juanfmb_](https://instagram.com/juanfmb_)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/JUANMONTILL/shopping_cart_django-20sep23/issues).
 
 ## Show your support
 
@@ -66,9 +34,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- UNEWEB
+- My family, my teachers and partners for their support
 
 ## 📝 License
 
